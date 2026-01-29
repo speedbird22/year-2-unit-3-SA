@@ -123,7 +123,7 @@ At least two refinements were implemented based on user feedback.
 FUNCTIONAL PROTOTYPE LINK
 
 Figma Interactive Prototype:
-(Paste your Figma link here)
+https://lake-margin-43457923.figma.site/
 
 --------------------------------------------------
 
