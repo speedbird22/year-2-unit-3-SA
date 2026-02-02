@@ -133,7 +133,7 @@ https://docs.google.com/forms/d/19jXzA7o6PpFovxpDaEWNG5m3FDh8MM9NGXg4ZcHeMnw/edi
 FUNCTIONAL PROTOTYPE LINK
 
 Figma Interactive Prototype:
-https://lake-margin-43457923.figma.site/
+https://www.figma.com/proto/lMYNJah8q1RXyfsOcLyArq/Untitled?node-id=0-1&t=sRDwAY3fGWbq72DW-1
 <img width="1064" height="599" alt="image" src="https://github.com/user-attachments/assets/2aae285b-7c72-44b3-b35f-56c853129e2e" />
 
 
