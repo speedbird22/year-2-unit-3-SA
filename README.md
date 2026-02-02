@@ -136,6 +136,12 @@ Figma Interactive Prototype:
 https://www.figma.com/proto/lMYNJah8q1RXyfsOcLyArq/Untitled?node-id=0-1&t=sRDwAY3fGWbq72DW-1
 <img width="1064" height="599" alt="image" src="https://github.com/user-attachments/assets/2aae285b-7c72-44b3-b35f-56c853129e2e" />
 
+<img width="397" height="860" alt="image" src="https://github.com/user-attachments/assets/7b9870ce-b148-4171-8914-d72a1eca3a94" />
+<img width="317" height="920" alt="image" src="https://github.com/user-attachments/assets/37b19698-b217-495b-a3c2-085f9eeafd27" />
+<img width="291" height="638" alt="image" src="https://github.com/user-attachments/assets/745220bd-92d5-4dc6-89b6-3fe70db9488f" />
+<img width="295" height="646" alt="image" src="https://github.com/user-attachments/assets/97b622cc-c326-4cd7-90bd-c10ef51bb07c" />
+<img width="296" height="772" alt="image" src="https://github.com/user-attachments/assets/4939c6c2-b240-4e5b-86a0-738781b3f3dc" />
+<img width="279" height="989" alt="image" src="https://github.com/user-attachments/assets/dd567b48-2757-4d8c-b7f0-d01270fca7a7" />
 
 --------------------------------------------------
 
