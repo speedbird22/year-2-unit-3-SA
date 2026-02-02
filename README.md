@@ -134,6 +134,8 @@ FUNCTIONAL PROTOTYPE LINK
 
 Figma Interactive Prototype:
 https://lake-margin-43457923.figma.site/
+<img width="1064" height="599" alt="image" src="https://github.com/user-attachments/assets/2aae285b-7c72-44b3-b35f-56c853129e2e" />
+
 
 --------------------------------------------------
 
