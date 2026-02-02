@@ -175,3 +175,5 @@ Assessment Type: Summative Assessment
 Course: Critical and Creative Thinking (Artificial Intelligence)  
 Tool Used: Figma (Free Plan)  
 Prototype Type: High-fidelity clickable UI (No backend or real AI implementation)
+<img width="804" height="701" alt="image" src="https://github.com/user-attachments/assets/492458e6-a480-4279-ae5f-61a75f01e298" />
+
