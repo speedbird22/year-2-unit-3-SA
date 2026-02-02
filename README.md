@@ -110,7 +110,7 @@ UI / UX DESIGN PRINCIPLES
 
 USABILITY TESTING & ITERATION
 
-The prototype was tested with 2+ users.
+The prototype was tested with 10+ users.
 
 Feedback highlights:
 - Navigation clarity improved by increasing CTA size
