@@ -119,14 +119,8 @@ Feedback highlights:
 At least two refinements were implemented based on user feedback.
 
 --------------------------------------------------
-Google form link
+Google form survey link
 https://docs.google.com/forms/d/19jXzA7o6PpFovxpDaEWNG5m3FDh8MM9NGXg4ZcHeMnw/edit#responses
-<img width="817" height="368" alt="image" src="https://github.com/user-attachments/assets/85cdb4c6-9f8d-4de1-a358-607a36f2a3eb" />
-<img width="792" height="334" alt="image" src="https://github.com/user-attachments/assets/68c9b460-4371-4813-9a21-169383a16149" />
-<img width="810" height="337" alt="image" src="https://github.com/user-attachments/assets/91e5ff7d-dde3-4035-9700-a2819472ca47" />
-<img width="806" height="341" alt="image" src="https://github.com/user-attachments/assets/ae6912ea-b087-4d6a-83e9-72af7d52324d" />
-<img width="840" height="385" alt="image" src="https://github.com/user-attachments/assets/dab34e76-6620-4c5b-b596-f777a5a8b301" />
-
 
 
 
